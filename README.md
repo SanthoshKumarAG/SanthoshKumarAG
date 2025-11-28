@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanthoshKumarAG
-- 👀 I’m interested in ... Arduino, Arduino IDE
-- 🌱 I’m currently learning ... IoT, Embedded Systems,
-- 💞️ I’m looking to collaborate on ... Arduino & IoT based projects
+- 👀 I’m interested in security operations, SOC, SIEM, cybersecurity, log analysis and incident response.
+- 🌱 I’m currently learning ... AI.
+- 💞️ I’m looking to collaborate on building AI agents and brainstroming new ideas.
 - 📫 How to reach me ... linktr.ee/santhoshkumarag
 
 <!---
